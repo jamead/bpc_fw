@@ -11,7 +11,7 @@ accelerator complex.
 
 The controller board inside the BPC uses an SD card to configure the BPC. The file “config.txt” on the SD card is read once at startup. Some firmware upgrades may require that the contents of the config.txt file be changed, but the SD card does not contain any firmware code, only configuration data. The SD card does not need to be physically accessed to upgrade the firmware.
 
-Firmware included with the BPCs shipped to LBNL for the AR was version 092324. Firmware beginning with version 061025 adds capability to allow for DHCP IP address assignment. 
+Firmware included with the BPCs shipped to LBNL for the AR was version 092324. Firmware beginning with version 061025 adds capability to allow for DHCP IP address assignment and remote update of SD card. 
 
 ## Requires
 
