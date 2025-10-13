@@ -22,3 +22,4 @@ Firmware included with the BPCs shipped to LBNL for the AR was version 092324. F
 ## Firmware Updates
 
 * See the docs folder for step by step instructions
+
